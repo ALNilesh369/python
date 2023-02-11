@@ -1,0 +1,5 @@
+course ="BCA"
+if course=="PGDCA" or course=="BCA":
+    print("ok")
+else:
+    print("not ok")
